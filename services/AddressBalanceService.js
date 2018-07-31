@@ -514,7 +514,7 @@ AddressBalanceService.prototype.processBlock = function (blockHeight, next) {
                             return callback(err)
                         }
 
-                        var balanceSat = new BigNumber(result.balance);
+                        var balanceSat = new BigNumber(result.balance.toString());
                         dataFlow.balance = balanceSat.dividedBy(1e8).toNumber();
 
                         return callback();
