@@ -1,7 +1,7 @@
 {
   "name": "insight-api",
   "description": "A Ravencoin blockchain REST and web socket API service for Ravencore Node.",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "repository": "git://github.com/underdarkskies/insight-api.git",
   "contributors": [
     {
@@ -40,8 +40,8 @@
     "lru-cache": "^4.0.1",
     "mongoose": "5.1.7",
     "morgan": "^1.7.0",
-    "ravencore-lib": "underdarkskies/ravencore-lib",
-    "ravencore-message": "underdarkskies/ravencore-message",
+    "ravencore-lib": "underdarkskies/ravencore-lib#assets",
+    "ravencore-message": "underdarkskies/ravencore-message#assets",
     "request": "^2.83.0"
   },
   "peerDependencies": {},
