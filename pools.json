@@ -1,5 +1,12 @@
 [
 	{
+    	"poolName": "Market Wizards Amsterdam",
+    	"url": "https://amsterdam.marketwizards.io/",
+    	"searchStrings": [
+    		"RUCnjvfyR7MLs2fNWRpJtwQ2C35Wfi4Y4Z"
+    	]
+    },
+	{
     	"poolName": "SubscriberPool",
     	"url": "https://subscriberpool.com",
     	"searchStrings": [
