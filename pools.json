@@ -185,7 +185,8 @@
     	"searchStrings": [
     		"RUiN7o6TPw4q4efkhJLuMq4bKmLRu4mnMB",
 		"RJLruFYyPbMJ38R8n627KabKpgWios9Pqm",
-		"RUN8dXY4qm2WfRWDveL2LbMeRbm1SWGMh9"
+		"RUN8dXY4qm2WfRWDveL2LbMeRbm1SWGMh9",
+		"RYANugY5y1RQtQ2muhxDCgVKSMKWDrq3Xh"
     	]
     },
 	{
@@ -292,7 +293,8 @@
     	"url": "http://yiimp.eu/",
     	"searchStrings": [
     		"RHQRGxCsVLwW6GYMkNHDRnzWaMHinXsGDt",
-			"RKbh4QopviguAWveJgjmoFKNMxewRFyvAb"
+		"RKbh4QopviguAWveJgjmoFKNMxewRFyvAb",
+		"RWZBP5wFvgJQjgHFHvhDYTyouweYxWLMgd"
     	]
     },
 	{
@@ -346,7 +348,7 @@
   		"poolName": "Suprnova",
   		"url": "https://rvn.suprnova.cc/",
   		"searchStrings": [
-  			"RFgNoNzd8KEHbeFxnvJamy4yCV8ZDvR4jD"
+  			"RM6RmrdYDVTckufVFYyZHHM2av4r5LKjji"
   		]
   	},
 	{
@@ -410,6 +412,34 @@
   		"url": "",
   		"searchStrings": [
   			"RWZCmqycEjnmtEiXHuHwmUtTnKmEH6b8Xp"
+  		]
+  	},
+	{
+  		"poolName": "AikaPool",
+  		"url": "https://aikapool.com",
+  		"searchStrings": [
+  			"RSJNtAy5AnevH7MSefumUcSzQzPayTkL9C"
+  		]
+        },
+	{
+  		"poolName": "666pool.cn",
+  		"url": "http://666pool.cn",
+  		"searchStrings": [
+  			"RKpXUJF52C8HgghMTC8BMVzbuZ6Afz4WxB"
+  		]
+  	},
+	{
+  		"poolName": "NLPOOL",
+  		"url": "https://www.nlpool.nl",
+  		"searchStrings": [
+  			"RQqz9W8sd3rxsnfxYsx7CuxHhDFRw9hUXM"
+  		]
+  	},
+	{
+  		"poolName": "yunpools",
+  		"url": "http://yunpools.com",
+  		"searchStrings": [
+  			"RVA9mH5MYq9sJV3GP2TgPMM9gkJgUzcpaz"
   		]
   	}
 ]
