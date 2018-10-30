@@ -1,89 +1,117 @@
 [
-	{
+    {
+  	"poolName": "yunpools",
+  	"url": "http://yunpools.com",
+  	"searchStrings": [
+  		"RVA9mH5MYq9sJV3GP2TgPMM9gkJgUzcpaz"
+  	]
+    },
+    {
+  	"poolName": "NLPOOL",
+  	"url": "https://www.nlpool.nl",
+  	"searchStrings": [
+  		"RQqz9W8sd3rxsnfxYsx7CuxHhDFRw9hUXM"
+  	]
+    },
+    {
     	"poolName": "Market Wizards Amsterdam",
     	"url": "https://amsterdam.marketwizards.io/",
     	"searchStrings": [
     		"RUCnjvfyR7MLs2fNWRpJtwQ2C35Wfi4Y4Z"
     	]
     },
-	{
+    {
+  	"poolName": "AikaPool",
+  	"url": "https://aikapool.com",
+  	"searchStrings": [
+  		"RSJNtAy5AnevH7MSefumUcSzQzPayTkL9C"
+  	]
+    },
+    {
+  	"poolName": "666pool.cn",
+  	"url": "http://666pool.cn",
+  	"searchStrings": [
+  		"RKpXUJF52C8HgghMTC8BMVzbuZ6Afz4WxB"
+  	]
+    },
+    {
     	"poolName": "SubscriberPool",
     	"url": "https://subscriberpool.com",
     	"searchStrings": [
     		"RXhcF3RjuXzPxfQNai3XpVgLZ8pvJwyMvE"
     	]
     },
-	{
+    {
     	"poolName": "Pyroxene (theMINE)",
     	"url": "http://pyroxene.chainworksindustries.com/rvn/",
     	"searchStrings": [
     		"RRwTFeF1JGcZewN7vqSGX4dbQWCubAGFSr"
     	]
     },
-	{
-    	"poolName": "DEDPOOL",
-    	"url": "https://pool.dedpool.io/",
-    	"searchStrings": [
-    		"RGsYdUuHc7z5qgqseP2B79NpJuS3NpnYvH"
-    	]
-    },
-	{
-    	"poolName": "Forsan",
-    	"url": "https://frrsan.com/",
-    	"searchStrings": [
-    		"RPRMvrsTLzYGQ3PjvhT6iJJD1qTgZHAEWe"
-    	]
-    },
-	{
-    	"poolName": "Phi Phi Pool",
-    	"url": "http://www.phi-phi-pool.com/",
-    	"searchStrings": [
-    		"RD5cGw8fWGPwPNuToJ3aHDjdmzmUjVuKue"
-    	]
-    },
-	{
-    	"poolName": "SPOOL",
-    	"url": "https://spool.cloud/",
-    	"searchStrings": [
-    		"RQhJLSDcuM7u9eVuAVGL3DTv9G8tkJ3S78"
-    	]
-    },
-	{
-    	"poolName": "friends-master",
-    	"url": "http://pool.friends-master.net/",
-    	"searchStrings": [
-    		"RN4W7EfvgTHayx464fLK7GT2YV1nFcuxPx"
-    	]
-    },
-	{
-    	"poolName": "XiTech",
-    	"url": "http://pool.x-i-tech.com",
-    	"searchStrings": [
-    		"REGeKU2WdmomQiz4XCt8FCY7cpL2yiYc4h"
-    	]
-    },
-	{
-    	"poolName": "The Technicals",
-    	"url": "https://thetechnicalspool.com/",
-    	"searchStrings": [
-    		"RXtawiTZDgkmVbxye56MCQwcF5ACv8Lvj5"
-    	]
-    },
-	{
+    {
     	"poolName": "Elitehash",
     	"url": "http://rvn.elitehash.net/",
     	"searchStrings": [
     		"RAs1CD7862EJh4MFCbtDYvDJVGEewd6iti"
     	]
     },
-	{
+    {
+    	"poolName": "DEDPOOL",
+    	"url": "https://pool.dedpool.io/",
+    	"searchStrings": [
+    		"RGsYdUuHc7z5qgqseP2B79NpJuS3NpnYvH"
+    	]
+    },
+    {
+    	"poolName": "Forsan",
+    	"url": "https://frrsan.com/",
+    	"searchStrings": [
+    		"RPRMvrsTLzYGQ3PjvhT6iJJD1qTgZHAEWe"
+    	]
+    },
+    {
+    	"poolName": "Phi Phi Pool",
+    	"url": "http://www.phi-phi-pool.com/",
+    	"searchStrings": [
+    		"RD5cGw8fWGPwPNuToJ3aHDjdmzmUjVuKue"
+    	]
+    },
+    {
+    	"poolName": "SPOOL",
+    	"url": "https://spool.cloud/",
+    	"searchStrings": [
+    		"RQhJLSDcuM7u9eVuAVGL3DTv9G8tkJ3S78"
+    	]
+    },
+    {
+    	"poolName": "friends-master",
+    	"url": "http://pool.friends-master.net/",
+    	"searchStrings": [
+    		"RN4W7EfvgTHayx464fLK7GT2YV1nFcuxPx"
+    	]
+    },
+    {
+    	"poolName": "XiTech",
+    	"url": "http://pool.x-i-tech.com",
+    	"searchStrings": [
+    		"REGeKU2WdmomQiz4XCt8FCY7cpL2yiYc4h"
+    	]
+    },
+    {
+    	"poolName": "The Technicals",
+    	"url": "https://thetechnicalspool.com/",
+    	"searchStrings": [
+    		"RXtawiTZDgkmVbxye56MCQwcF5ACv8Lvj5"
+    	]
+    },
+    {
     	"poolName": "CoinFoundry",
     	"url": "https://coinfoundry.org/",
     	"searchStrings": [
     		"RXPWwRpyb4abdPMS2Xfs8vmijexyk14WhJ"
     	]
     },
-	{
+    {
     	"poolName": "zpool",
     	"url": "https://www.zpool.ca/",
     	"searchStrings": [
@@ -91,14 +119,14 @@
 			"R9Lo3bG2qGu5pnAnokzP1j2hBJuXQmeJCs"
     	]
     },
-	{
+    {
     	"poolName": "The HIVE",
     	"url": "https://hive.gulfcoastmining.com/",
     	"searchStrings": [
     		"RSf3P3gsySAhfz5wL52gy11U784tsvUjEC"
     	]
     },
-	{
+    {
     	"poolName": "Mining Patriot",
     	"url": "https://miningpatriot.com/",
     	"searchStrings": [
@@ -106,14 +134,14 @@
 		"RQGr7EyDGRGbDxnwXbki642uRtme7JNZ27"
     	]
     },
-	{
+    {
     	"poolName": "Quantum",
     	"url": "https://quantumminingpool.com",
     	"searchStrings": [
     		"RU77fpbeogZauT6Psj5YPNM1A8ztxjCk9M"
     	]
     },
-	{
+    {
     	"poolName": "Block Masters",
     	"url": "http://blockmasters.co/",
     	"searchStrings": [
@@ -127,29 +155,30 @@
 		"RRG1VGYC3yrYh9u4Wu83DVGFmj64hyGGG5"
     	]
     },
-	{
+    {
     	"poolName": "StockMine",
     	"url": "http://stockmine.xyz/",
     	"searchStrings": [
     		"RLpob8nsKgPH24Qye39sWox9NsyT8Ce5FH"
     	]
     },
-	{
+    {
     	"poolName": "XPOOLX",
     	"url": "https://xpoolx.com/",
     	"searchStrings": [
     		"RLwKE7dSTQmwUyhdCRiz2KK57d7WUnRM3p"
     	]
     },
-	{
+    {
     	"poolName": "RavenCoin.World",
     	"url": "https://pool.ravencoin.world/",
     	"searchStrings": [
     		"RQcHE3HRRbT3KwFnvpzDfj9tpgUPwQ6BeB",
-			"RSos8DUfQJES9CkhLN42NpydacdrAu6RRk"
+		"RSos8DUfQJES9CkhLN42NpydacdrAu6RRk",
+		"RAzqqi7x5pNE1YN1arTrFXDC2wud3KuLa3"
     	]
     },
-	{
+    {
     	"poolName": "minecore",
     	"url": "https://pool.minecore.pro/",
     	"searchStrings": [
@@ -157,7 +186,7 @@
 			"RBjuHnVJWmhVLDctoM9basfXgLGuBGnvkV"
     	]
     },
-	{
+    {
     	"poolName": "seems legit",
     	"url": "http://pool.seems-legit.com/",
     	"searchStrings": [
@@ -165,87 +194,88 @@
 		"RLMuQpu67Xc5baav7Za6YgLgLkVdXq4asu"
     	]
     },
-	{
+    {
     	"poolName": "StarPool",
     	"url": "http://starpool.fun/",
     	"searchStrings": [
     		"REH5Pea1pDcnju1YgB2zR7xe8bCpcCz775"
     	]
     },
-	{
+    {
     	"poolName": "RUSH HOUR",
     	"url": "http://rushhourmining.com/",
     	"searchStrings": [
     		"RWCUYupeuvaaCh5xHCo8vzPvUcWfxSA4Jn"
     	]
     },
-	{
+    {
     	"poolName": "icemining.ca",
     	"url": "https://icemining.ca/site/gocoins?id=2089",
     	"searchStrings": [
     		"RUiN7o6TPw4q4efkhJLuMq4bKmLRu4mnMB",
 		"RJLruFYyPbMJ38R8n627KabKpgWios9Pqm",
 		"RUN8dXY4qm2WfRWDveL2LbMeRbm1SWGMh9",
-		"RYANugY5y1RQtQ2muhxDCgVKSMKWDrq3Xh"
+		"RYANugY5y1RQtQ2muhxDCgVKSMKWDrq3Xh",
+		"RJRXERB56vYQfqckPCZyYi31bsk9ZMrJ5F"
     	]
     },
-	{
+    {
     	"poolName": "OminousNetwork",
     	"url": "https://www.ominousnetwork.com/",
     	"searchStrings": [
     		"REESXgjhAuarm3Vs9rxPZpEmuAoSmbHBXV"
     	]
     },
-	{
+    {
     	"poolName": "Hash4Life",
     	"url": "https://hash4.life/",
     	"searchStrings": [
     		"R9JkHdoFVMmuhDnQX3W8L6KDKfzueWNQuj"
     	]
     },
-	{
+    {
     	"poolName": "TheBSODPool",
     	"url": "https://bsod.pw",
     	"searchStrings": [
     		"RQZS8LBvv2VWuAEWF5BXoRikoG6MRp5asH"
     	]
     },
-	{
+    {
     	"poolName": "COINBLOCKERS",
     	"url": "https://rvn.coinblockers.com/",
     	"searchStrings": [
     		"RK4GiCpC6nvX2sswH3pre1nwbng8S8ViCn"
     	]
     },
-	{
+    {
     	"poolName": "Evocation Network",
     	"url": "https://evocation.network/",
     	"searchStrings": [
     		"RAFmhKe26pSinN9eERhqWk1nUMnx33LDi2"
     	]
     },
-	{
+    {
     	"poolName": "OMEGAPOOL.CC",
     	"url": "https://omegapool.cc",
     	"searchStrings": [
     		"RGBjnf4gpXsJLvcGqvU1yc6ZwKQMEPqaTf"
     	]
     },
-	{
+    {
     	"poolName": "Virtopia",
     	"url": "http://pool.virtopia.ca/",
     	"searchStrings": [
     		"RF7FaQRQq9DdVcaZZikdahdacTiJh17NDU"
     	]
     },
-	{
+    {
     	"poolName": "ahashpool.com",
     	"url": "https://ahashpool.com/",
     	"searchStrings": [
     		"RDf586VvH5CT72jn4QsoJuRuxbueHynJZK"
     	]
     },
-	{
+    {
     	"poolName": "minepool",
     	"url": "https://minepool.com/",
     	"searchStrings": [
@@ -258,7 +288,7 @@
 		"RUB82EWAhrSe9Hj7TqKFwiuBM6qUBJuvgy"
     	]
     },
-	{
+    {
     	"poolName": "JKCrypto",
     	"url": "https://jkcpool.com/",
     	"searchStrings": [
@@ -266,21 +296,21 @@
 			"RNDFJojfsZYSezbWn1qjffAWTAFynhYrNk"
     	]
     },
-	{
+    {
     	"poolName": "krawww-miner",
     	"url": "http://krawww-miner.eu",
     	"searchStrings": [
     		"RGdHyWTLp9rR5mfUX2hGdAjCuYaDqa3hDo"
     	]
     },
-	{
+    {
     	"poolName": "Zergpool",
     	"url": "http://zergpool.com/",
     	"searchStrings": [
     		"RQ9Q5aALnF7wrP6aWTmXV2gw6u1DjcLFSG"
     	]
     },
-	{
+    {
     	"poolName": "CryptoPool Party",
     	"url": "https://cryptopool.party/",
     	"searchStrings": [
@@ -288,7 +318,7 @@
 			"RNiwQxdkULngkFKfTzqvtd9Z6rXKGxKnbq"
     	]
     },
-	{
+    {
     	"poolName": "YiiMP.eu",
     	"url": "http://yiimp.eu/",
     	"searchStrings": [
@@ -297,149 +327,121 @@
 		"RWZBP5wFvgJQjgHFHvhDYTyouweYxWLMgd"
     	]
     },
-	{
-  		"poolName": "MiningPanda",
-  		"url": "https://miningpanda.site/",
-  		"searchStrings": [
-  			"RN6vJ31K3Ycj7S4obdtYckXPPSAy7z5g2p",
-			"R9V1qoRTy1YtEMNVyCEXsKvbJqeUEpYWUy"
-  		]
-  	},
-	{
-  		"poolName": "Pickaxe.Pro",
-  		"url": "https://www.pickaxe.pro/",
-  		"searchStrings": [
-  			"RTUYcbkJo9zuW74brFc3bwxXyKpCiogxT7",
-			"RCD2Wuwxbz4zDgpWJsUNMaRdS28nvXVaZa"
-  		]
-  	},
-	{
-  		"poolName": "RavenMiner",
-  		"url": "https://ravenminer.com/",
-  		"searchStrings": [
-  			"RNJMLCLiss7hf23rZSq9BzhoQ94H5EDQTy",
-			"RFtHhp8S43JDnzAJz9GDvups6pdJjBA7nM",
-			"RY2ApTjKWuJCq6rfu8eYRKVuciwAaAUnB6"
-  		]
-  	},
-	{
-  		"poolName": "MinerMore",
-  		"url": "https://minermore.com",
-  		"searchStrings": [
-  			"RMuKTGvm1PSfcZKoJYv1G1mjGvRMLtczMY"
-  		]
-  	},
-	{
-  		"poolName": "ThreeEyed",
-  		"url": "",
-  		"searchStrings": [
-  			"RHnYLF8s5UbyiCyUxhx6eJFJVwtTReSRPp",
-			"RQ3vYTtTuZhFamdpt4xoeu7516tFZBAVhy"
-  		]
-  	},
-	{
-  		"poolName": "RavenMiner EU",
-  		"url": "https://eu.ravenminer.com",
-  		"searchStrings": [
-			"RY2ApTjKWuJCq6rfu8eYRKVuciwAaAUnB6"
-  		]
-  	},
-	{
-  		"poolName": "Suprnova",
-  		"url": "https://rvn.suprnova.cc/",
-  		"searchStrings": [
-  			"RM6RmrdYDVTckufVFYyZHHM2av4r5LKjji"
-  		]
-  	},
-	{
-  		"poolName": "f2pool",
-  		"url": "http://f2pool.com/",
-  		"searchStrings": [
-  			"RVG96MbaKEDFzzj9NzbAuxkDt86KAm2Qj5"
-  		]
-  	},
-	{
-  		"poolName": "Bee Pool",
-  		"url": "http://beepool.org/",
-  		"searchStrings": [
-  			"RFFABGPdXjRoqLxX36BxnPmTCSWTpZzq7C"
-  		]
-	},
-	{
-  		"poolName": "Gos.cx Pool",
-  		"url": "https://www.gos.cx/",
-  		"searchStrings": [
-  			"RMZGRVJx46ieBHTWBEogTGmQ4g1BnRhNc3"
-  		]
-	},
-	{
-  		"poolName": "MeziPool",
-  		"url": "https://mezipool.life/",
-  		"searchStrings": [
-  			"RPf7vRQiyNRosV1A6HxdpfboUw2zGy4mwD"
-  		]
-	},
-	{
-  		"poolName": "Angry Pool",
-  		"url": "http://angrypool.com/",
-  		"searchStrings": [
-  			"RUD6e6SYoyVCdJXwjTM8mw3dKURgpJ1tZf"
-  		]
-	},
-	{
-  		"poolName": "Salmon Pool",
-  		"url": "https://salmonpool.org/",
-  		"searchStrings": [
-  			"RWcnMHrRcVs2wLow8euPk2pyueBfMYyk5L"
-  		]
-	},
-	{
-  		"poolName": "CoinMiners",
-  		"url": "https://coin-miners.info/",
-  		"searchStrings": [
-  			"REQhFreZ3PfM4sJV7gWSjkMBTLeyARb8uJ"
-  		]
-	},
-	{
-  		"poolName": "Titan Mining",
-  		"url": "https://titan-mining.net/",
-  		"searchStrings": [
-  			"RG9GCf1Lb5o6mARBQLXrnku5PSx7d7eX3y"
-  		]
-	},
-	{
-  		"poolName": "Parent.Labs",
-  		"url": "",
-  		"searchStrings": [
-  			"RWZCmqycEjnmtEiXHuHwmUtTnKmEH6b8Xp"
-  		]
-  	},
-	{
-  		"poolName": "AikaPool",
-  		"url": "https://aikapool.com",
-  		"searchStrings": [
-  			"RSJNtAy5AnevH7MSefumUcSzQzPayTkL9C"
-  		]
-        },
-	{
-  		"poolName": "666pool.cn",
-  		"url": "http://666pool.cn",
-  		"searchStrings": [
-  			"RKpXUJF52C8HgghMTC8BMVzbuZ6Afz4WxB"
-  		]
-  	},
-	{
-  		"poolName": "NLPOOL",
-  		"url": "https://www.nlpool.nl",
-  		"searchStrings": [
-  			"RQqz9W8sd3rxsnfxYsx7CuxHhDFRw9hUXM"
-  		]
-  	},
-	{
-  		"poolName": "yunpools",
-  		"url": "http://yunpools.com",
-  		"searchStrings": [
-  			"RVA9mH5MYq9sJV3GP2TgPMM9gkJgUzcpaz"
-  		]
-  	}
+    {
+	"poolName": "MiningPanda",
+	"url": "https://miningpanda.site/",
+	"searchStrings": [
+		"RN6vJ31K3Ycj7S4obdtYckXPPSAy7z5g2p",
+		"R9V1qoRTy1YtEMNVyCEXsKvbJqeUEpYWUy"
+  	]
+    },
+    {
+	"poolName": "Pickaxe.Pro",
+	"url": "https://www.pickaxe.pro/",
+	"searchStrings": [
+		"RTUYcbkJo9zuW74brFc3bwxXyKpCiogxT7",
+		"RCD2Wuwxbz4zDgpWJsUNMaRdS28nvXVaZa"
+  	]
+    },
+    {
+	"poolName": "RavenMiner",
+	"url": "https://ravenminer.com/",
+	"searchStrings": [
+		"RNJMLCLiss7hf23rZSq9BzhoQ94H5EDQTy",
+		"RFtHhp8S43JDnzAJz9GDvups6pdJjBA7nM",
+		"RY2ApTjKWuJCq6rfu8eYRKVuciwAaAUnB6"
+	]
+    },
+    {
+	"poolName": "MinerMore",
+	"url": "https://minermore.com",
+	"searchStrings": [
+		"RMuKTGvm1PSfcZKoJYv1G1mjGvRMLtczMY"
+	]
+    },
+    {
+	"poolName": "ThreeEyed",
+	"url": "",
+	"searchStrings": [
+		"RHnYLF8s5UbyiCyUxhx6eJFJVwtTReSRPp",
+		"RQ3vYTtTuZhFamdpt4xoeu7516tFZBAVhy"
+	]
+    },
+    {
+	"poolName": "RavenMiner EU",
+	"url": "https://eu.ravenminer.com",
+	"searchStrings": [
+		"RY2ApTjKWuJCq6rfu8eYRKVuciwAaAUnB6"
+	]
+    },
+    {
+	"poolName": "Suprnova",
+	"url": "https://rvn.suprnova.cc/",
+	"searchStrings": [
+		"RM6RmrdYDVTckufVFYyZHHM2av4r5LKjji"
+	]
+    },
+    {
+	"poolName": "f2pool",
+	"url": "http://f2pool.com/",
+	"searchStrings": [
+		"RVG96MbaKEDFzzj9NzbAuxkDt86KAm2Qj5"
+	]
+    },
+    {
+	"poolName": "Bee Pool",
+	"url": "http://beepool.org/",
+	"searchStrings": [
+		"RFFABGPdXjRoqLxX36BxnPmTCSWTpZzq7C"
+	]
+    },
+    {
+	"poolName": "Gos.cx Pool",
+	"url": "https://www.gos.cx/",
+	"searchStrings": [
+		"RMZGRVJx46ieBHTWBEogTGmQ4g1BnRhNc3"
+	]
+    },
+    {
+	"poolName": "MeziPool",
+	"url": "https://mezipool.life/",
+	"searchStrings": [
+		"RPf7vRQiyNRosV1A6HxdpfboUw2zGy4mwD"
+	]
+    },
+    {
+	"poolName": "Angry Pool",
+	"url": "http://angrypool.com/",
+	"searchStrings": [
+		"RUD6e6SYoyVCdJXwjTM8mw3dKURgpJ1tZf"
+	]
+    },
+    {
+	"poolName": "Salmon Pool",
+	"url": "https://salmonpool.org/",
+	"searchStrings": [
+		"RWcnMHrRcVs2wLow8euPk2pyueBfMYyk5L"
+	]
+    },
+    {
+	"poolName": "CoinMiners",
+	"url": "https://coin-miners.info/",
+	"searchStrings": [
+		"REQhFreZ3PfM4sJV7gWSjkMBTLeyARb8uJ"
+	]
+    },
+    {
+	"poolName": "Titan Mining",
+	"url": "https://titan-mining.net/",
+	"searchStrings": [
+		"RG9GCf1Lb5o6mARBQLXrnku5PSx7d7eX3y"
+	]
+    },
+    {
+	"poolName": "Parent.Labs",
+	"url": "",
+	"searchStrings": [
+		"RWZCmqycEjnmtEiXHuHwmUtTnKmEH6b8Xp"
+	]
+    }
 ]
