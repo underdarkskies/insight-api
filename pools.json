@@ -443,5 +443,12 @@
 	"searchStrings": [
 		"RWZCmqycEjnmtEiXHuHwmUtTnKmEH6b8Xp"
 	]
+    },
+    {
+	"poolName": "BitPoolMining",
+	"url": "https://www.bitpoolmining.com",
+	"searchStrings": [
+		"RAG2MhHX38ouohLD8k9Qs1HWCrM19BoitS"
+	]
     }
 ]
