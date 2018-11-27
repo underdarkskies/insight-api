@@ -293,6 +293,9 @@ The response contains the value in Satoshis.
 ### Unspent Outputs
 ```
   /api/addr/[:addr]/utxo
+  /api/addr/2NF2baYuJAkCKo5onjUKEPdARQkZ6SYyKd5/utxo
+  /api/addr/[:addr]/asset/[:asset]/utxo
+  /api/addr/2NF2baYuJAkCKo5onjUKEPdARQkZ6SYyKd5/asset/MY_ASSET/utxo
 ```
 Sample return:
 ```
@@ -320,11 +323,15 @@ Sample return:
 ]
 ```
 
+Here's an [extended example response with assets](docs/example_responses/utxo_with_assets.md).
+
 ### Unspent Outputs for Multiple Addresses
 GET method:
 ```
   /api/addrs/[:addrs]/utxo
   /api/addrs/2NF2baYuJAkCKo5onjUKEPdARQkZ6SYyKd5,2NAre8sX2povnjy4aeiHKeEh97Qhn97tB1f/utxo
+  /api/addrs/[:addrs]/asset/[:asset]/utxo
+  /api/addrs/2NF2baYuJAkCKo5onjUKEPdARQkZ6SYyKd5,2NAre8sX2povnjy4aeiHKeEh97Qhn97tB1f/asset/MY_ASSET/utxo
 ```
 
 POST method:
@@ -397,6 +404,8 @@ Sample output:
     ]
  }
 ```
+
+Here's an [extended example response with assets](docs/example_responses/tx_with_assets.md).
 
 Note: if pagination params are not specified, the result is an array of transactions.
 
