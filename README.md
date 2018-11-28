@@ -296,6 +296,7 @@ The response contains the value in Satoshis.
   /api/addr/2NF2baYuJAkCKo5onjUKEPdARQkZ6SYyKd5/utxo
   /api/addr/[:addr]/asset/[:asset]/utxo
   /api/addr/2NF2baYuJAkCKo5onjUKEPdARQkZ6SYyKd5/asset/MY_ASSET/utxo
+  /api/addr/2NF2baYuJAkCKo5onjUKEPdARQkZ6SYyKd5/asset/*/utxo  (all assets)
 ```
 Sample return:
 ```
