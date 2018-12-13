@@ -1,5 +1,19 @@
 [
-    {
+   {
+        "poolName": "Nanopool",
+        "url": "https://rvn.nanopool.org",
+        "searchStrings": [
+                "RRL5mMNeox75MGbqnfUZEhn3RferuvFGcy"
+        ]
+   },
+   {
+        "poolName": "Quickpool",
+        "url": "https://quickpool.tech",
+        "searchStrings": [
+                "RUiGL6TFUcXC96bnJHtMh9xmnEmHjvfViE"
+        ]
+   },
+   {
   	"poolName": "yunpools",
   	"url": "http://yunpools.com",
   	"searchStrings": [
