@@ -11,7 +11,8 @@
         "url": "https://zel.coinblockers.com/",
         "searchStrings": [
             "t1RBpVZmcwgoMFdThtUrHGEqJVz6BRPExFi",
-            "t1UT2nEuf85FJ9ExCuw6Tppu8S4wjtxsVKC"
+            "t1UT2nEuf85FJ9ExCuw6Tppu8S4wjtxsVKC",
+            "t1YzYEb2vaCiaZx7qy9WCNGV19AVSCWvase"
         ]
     },
     {
@@ -37,9 +38,9 @@
     },
     {
         "poolName": "Alt Pool",
-        "url": "https://altpool.pro/",
+        "url": "http://zel.altpool.pro/",
         "searchStrings": [
-            "t1LPKVZh7aVJuXhSJUM4atuVSMYVjQJH7Yz"
+            "t1KyRNrgUUt8wPZso36LucEs8Q2hYNe2kAA"
         ]
     },
     {
@@ -50,15 +51,15 @@
         ]
     },
     {
-        "poolName": "TheDirtyDozenPool",
+        "poolName": "Equihash.pro",
         "url": "https://equihash.pro/",
         "searchStrings": [
             "t1VoiZk4sdvzstMbDTVgYDzBgBEL3dCPuUZ"
         ]
     },
     {
-        "poolName": "YouMine Pool",
-        "url": "https://youmine.xyz",
+        "poolName": "Equihub/YouMine Pool",
+        "url": "https://zelcash.equihub.pro/",
         "searchStrings": [
             "t1XhR4FCrv3SBYKCHVHQiEiS3aWohePEY2c"
         ]
@@ -68,6 +69,55 @@
         "url": "http://pool.zel.cash",
         "searchStrings": [
             "t1gZgxSEr9RcMBcUyHvkN1U2bJsz3CEV2Ve"
+        ]
+    },
+    {
+        "poolName": "Known Solo Pool",
+        "url": "",
+        "searchStrings": [
+            "t1Z2eLCNPpbuxMPjUHStSBhgAvMe7ifrXRi"
+        ]
+    },
+    {
+        "poolName": "FOMO mining",
+        "url": "https://fomominers.com/",
+        "searchStrings": [
+            "t1NrdtDLPb3LWDyexFuGXvXTGpp1b4envD8"
+        ]
+    },
+    {
+        "poolName": "Pickaxe Pro",
+        "url": "https://equi.pickaxe.pro/stats",
+        "searchStrings": [
+            "t1gydZuFtEChJvHCG4nrWkLRaxTWCeqg6bk"
+        ]
+    },
+    {
+        "poolName": "Power Mining",
+        "url": "https://powermining.pw/",
+        "searchStrings": [
+            "t1atqmtM2WW1HjEdZ6udmSFhsGQrxJ6LxrW"
+        ]
+    },
+    {
+        "poolName": "Solopool",
+        "url": "https://zel.solopool.org/",
+        "searchStrings": [
+            "t1cJ1LzXw5DezDy8y3nFhbsDGtsGr8QPo1y"
+        ]
+    },
+    {
+        "poolName": "ForgeTop",
+        "url": "https://zel.forgetop.com/dashboard",
+        "searchStrings": [
+            "t1Q7qJSHMQKXnL392A71GD1nH8AexhwkAW1"
+        ]
+    },
+    {
+        "poolName": "Known Solo",
+        "url": "",
+        "searchStrings": [
+            "t1Z2eLCNPpbuxMPjUHStSBhgAvMe7ifrXRi "
         ]
     }
 ]
