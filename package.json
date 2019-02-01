@@ -1,7 +1,7 @@
 {
   "name": "insight-api",
   "description": "A Zelcash blockchain REST and web socket API service for zelcash-bitcore Node.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "repository": "git://github.com/TheTrunk/insight-api.git",
   "contributors": [
     {

@@ -440,6 +440,7 @@ Where "xxx" can be:
  * getLastBlockHash
  * getMiningInfo
  * getPeerInfo
+ * getZelNodes
 
 
 ### Utility Methods
