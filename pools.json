@@ -119,5 +119,19 @@
         "searchStrings": [
             "t1Z2eLCNPpbuxMPjUHStSBhgAvMe7ifrXRi "
         ]
+    },
+    {
+        "poolName": "2Miners PPLNS",
+        "url": "https://2miners.com/zel-mining-pool",
+        "searchStrings": [
+            "t1JKRwXGfKTGfPV1z48rvoLyabk31z3xwHa"
+        ]
+    },
+    {
+        "poolName": "2Miners SOLO",
+        "url": "https://2miners.com/solo-zel-mining-pool",
+        "searchStrings": [
+            "t1ZqpNxeMtPQVGtZ7hEkWJJv74v3FQHCEMj"
+        ]
     }
 ]
