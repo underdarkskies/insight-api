@@ -134,5 +134,19 @@
         "searchStrings": [
             "t1ZqpNxeMtPQVGtZ7hEkWJJv74v3FQHCEMj"
         ]
+    },
+    {
+        "poolName": "Zergpool",
+        "url": "https://zergpool.com",
+        "searchStrings": [
+            "t1QqX8TFUXJNZH54YYqmf8Aq2Uk5uBCmkzS"
+        ]
+    },
+    {
+        "poolName": "Beardpool",
+        "url": "https://beardpool.rocks",
+        "searchStrings": [
+            "t1TzE8ggovcxrg1uHSVBvZbZmvTJZcKTNgY"
+        ]
     }
 ]
