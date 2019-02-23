@@ -439,7 +439,7 @@ StatisticService.prototype._getBlockInfo = function (blockHeight, next) {
 
         var reward = self.getBlockRewardr(blockHeight);
         dataFlow.transaction.outputs.forEach(function (output) {
-            if (output.satoshis > (reward * 0.8)) {
+            if (output.satoshis > (reward * 0.6)) {
                 dataFlow.minedBy = output.address;
             }
         });

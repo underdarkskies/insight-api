@@ -241,7 +241,7 @@ AddressBlocksMinedService.prototype.processBlock = function (blockHeight, next) 
         var abmsreward = self.getBlockReward(block.height);
 
         transaction.outputs.forEach(function (output) {
-            if (output.satoshis > (abmsreward * 0.8)) {
+            if (output.satoshis > (abmsreward * 0.6)) {
                 abmspoolAddress = output.address;
             }
         });
