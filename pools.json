@@ -116,13 +116,6 @@
         ]
     },
     {
-        "poolName": "Known Solo",
-        "url": "",
-        "searchStrings": [
-            "t1Z2eLCNPpbuxMPjUHStSBhgAvMe7ifrXRi "
-        ]
-    },
-    {
         "poolName": "2Miners PPLNS",
         "url": "https://2miners.com/zel-mining-pool",
         "searchStrings": [
@@ -149,5 +142,12 @@
         "searchStrings": [
             "t1TzE8ggovcxrg1uHSVBvZbZmvTJZcKTNgY"
         ]
+    },
+    {
+        "poolName": "Luxor Mining Pool",
+        "url": "https://mining.luxor.tech",
+        "searchStrings": [
+            "t1gdnENdKNKFDvXijGUG7xdnGyj4To8LCpR"
+        ]   
     }
 ]
