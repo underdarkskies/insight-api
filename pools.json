@@ -464,5 +464,19 @@
 	"searchStrings": [
 		"RAG2MhHX38ouohLD8k9Qs1HWCrM19BoitS"
 	]
+	},
+    {
+	"poolName": "2Miners PPLNS",
+	"url": "https://rvn.2miners.com",
+	"searchStrings": [
+		"RHUC17zAVjNqXDtkqwLPRvQ2XgoRZsXeeG"
+    ]
+    },
+    {
+	"poolName": "2Miners SOLO",
+	"url": "https://solo-rvn.2miners.com",
+	"searchStrings": [
+		"RMfabGTGRs6xELzQc6dZzJW4K6XfJdVxHX"
+    ]
     }
 ]
