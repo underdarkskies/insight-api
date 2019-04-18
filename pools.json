@@ -1,6 +1,41 @@
 [
    {
-        "poolName": "Nanopool",
+        "poolName": "2Miners PPLNS",
+        "url": "https://rvn.2miners.com",
+        "searchStrings": [
+                "RHUC17zAVjNqXDtkqwLPRvQ2XgoRZsXeeG"
+        ]
+   },
+   {
+        "poolName": "2Miners SOLO",
+        "url": "https://solo-rvn.2miners.com",
+        "searchStrings": [
+                "RMfabGTGRs6xELzQc6dZzJW4K6XfJdVxHX"
+        ]
+   },
+   {
+        "poolName": "Minerall",
+        "url": "https://minerall.io/ravencoin",
+        "searchStrings": [
+                "RQyVDWu49NdUQmmsB1YXGHJr15PYE1hWD6"
+        ]
+   },
+   {
+        "poolName": "emcd.io",
+        "url": "https://emcd.io/site/gomining?algo=x16r",
+        "searchStrings": [
+                "RJKq5nFczVTgc4Au1dBTRGMyRrXQDbyCmm"
+        ]
+   },
+   {
+	"poolName": "BitPoolMining",
+	"url": "https://www.bitpoolmining.com",
+	"searchStrings": [
+		"RAG2MhHX38ouohLD8k9Qs1HWCrM19BoitS"
+	]
+   },
+   {
+	"poolName": "Nanopool",
         "url": "https://rvn.nanopool.org",
         "searchStrings": [
                 "RRL5mMNeox75MGbqnfUZEhn3RferuvFGcy"
@@ -17,7 +52,8 @@
   	"poolName": "yunpools",
   	"url": "http://yunpools.com",
   	"searchStrings": [
-  		"RVA9mH5MYq9sJV3GP2TgPMM9gkJgUzcpaz"
+  		"RVA9mH5MYq9sJV3GP2TgPMM9gkJgUzcpaz",
+		"RDVw72XGsBnvuJ7DXh7qRadEWi4AxinFAL"
   	]
     },
     {
@@ -230,7 +266,8 @@
 		"RJLruFYyPbMJ38R8n627KabKpgWios9Pqm",
 		"RUN8dXY4qm2WfRWDveL2LbMeRbm1SWGMh9",
 		"RYANugY5y1RQtQ2muhxDCgVKSMKWDrq3Xh",
-		"RJRXERB56vYQfqckPCZyYi31bsk9ZMrJ5F"
+		"RJRXERB56vYQfqckPCZyYi31bsk9ZMrJ5F",
+		"RDsffBxPZh2SXonPPhvER8cCUwaeaeHbRq"
     	]
     },
     {
@@ -370,7 +407,8 @@
 	"poolName": "MinerMore",
 	"url": "https://minermore.com",
 	"searchStrings": [
-		"RMuKTGvm1PSfcZKoJYv1G1mjGvRMLtczMY"
+		"RMuKTGvm1PSfcZKoJYv1G1mjGvRMLtczMY",
+		"RTraysiMMzReEQHKtGtgRtVdGjg4vRA36d"
 	]
     },
     {
@@ -392,7 +430,8 @@
 	"poolName": "Suprnova",
 	"url": "https://rvn.suprnova.cc/",
 	"searchStrings": [
-		"RM6RmrdYDVTckufVFYyZHHM2av4r5LKjji"
+		"RM6RmrdYDVTckufVFYyZHHM2av4r5LKjji",
+		"REG2QecZuiA9z1uMkRNymChyXzqmTcw25Z"
 	]
     },
     {
@@ -457,26 +496,5 @@
 	"searchStrings": [
 		"RWZCmqycEjnmtEiXHuHwmUtTnKmEH6b8Xp"
 	]
-    },
-    {
-	"poolName": "BitPoolMining",
-	"url": "https://www.bitpoolmining.com",
-	"searchStrings": [
-		"RAG2MhHX38ouohLD8k9Qs1HWCrM19BoitS"
-	]
-	},
-    {
-	"poolName": "2Miners PPLNS",
-	"url": "https://rvn.2miners.com",
-	"searchStrings": [
-		"RHUC17zAVjNqXDtkqwLPRvQ2XgoRZsXeeG"
-    ]
-    },
-    {
-	"poolName": "2Miners SOLO",
-	"url": "https://solo-rvn.2miners.com",
-	"searchStrings": [
-		"RMfabGTGRs6xELzQc6dZzJW4K6XfJdVxHX"
-    ]
     }
 ]
