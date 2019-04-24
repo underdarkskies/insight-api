@@ -149,5 +149,12 @@
         "searchStrings": [
             "t1gdnENdKNKFDvXijGUG7xdnGyj4To8LCpR"
         ]   
+    },
+    {
+        "poolName": "F2pool",
+        "url": "https://www.f2pool.com",
+        "searchStrings": [
+            "t1btYJifKAURW2T7kAMc6nZcs5n1LVwKYks"
+        ]   
     }
 ]
