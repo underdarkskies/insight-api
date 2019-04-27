@@ -1,5 +1,12 @@
 [
    {
+        "poolName": "MiningPoolHub",
+        "url": "https://ravencoin.miningpoolhub.com/",
+        "searchStrings": [
+                "RGgKSh4faTrc2zwazhTk9bJ5RHMeh5S8Pb"
+        ]
+   },
+   {
         "poolName": "2Miners PPLNS",
         "url": "https://rvn.2miners.com",
         "searchStrings": [
