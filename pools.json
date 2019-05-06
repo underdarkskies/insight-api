@@ -31,9 +31,16 @@
     },
     {
         "poolName": "VOIDr",
-        "url": "https://voidr.net/",
+        "url": "https://zelcash.voidr.net/",
         "searchStrings": [
             "t1KPD9ymeg7sCzAhrSPQ2BgLDRM2XGYqb3S"
+        ]
+    },
+    {
+        "poolName": "VOIDr Solo",
+        "url": "https://zelcash-solo.voidr.net/",
+        "searchStrings": [
+            "t1dmNSMGoUXHaoKd48A8qudXhQPK5ughDv5"
         ]
     },
     {
