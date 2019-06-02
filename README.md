@@ -196,6 +196,54 @@ or
 }
 ```
 
+### Assets
+Get a listing of assets, optionally with metadata:
+```
+  /api/assets
+  /api/assets?asset=MY_ASSET&verbose=true
+  /api/assets?asset=COM*&size=10&skip=10
+```
+All parameters are optional.  size/skip are to implement pagination.  '*' can be used as a trailing wildcard only.
+
+Sample results:
+```
+/api/assets?verbose=true&size=2
+{
+  ASDF: {
+    name: "ASDF",
+    amount: 10000000,
+    units: 0,
+    reissuable: 1,
+    has_ipfs: 0,
+    block_height: 551,
+    blockhash: "2f209586e778308833d46ab0df4cd2eab6fd165c38d7221093d389cd0837c8ed"
+  },
+    ASDG: {
+    name: "ASDG",
+    amount: 1,
+    units: 0,
+    reissuable: 1,
+    has_ipfs: 0,
+    block_height: 552,
+    blockhash: "4d5f71c4adeb4c08c46664e220976a29659e8f6431a4156bc56e45a78ac3db4c"
+  }
+}
+
+/api/assets?size=10
+[
+  "ASDF",
+  "ASDG",
+  "ASDH",
+  "ASDI",
+  "ASDJ",
+  "ASDK",
+  "ASDL",
+  "ASDM",
+  "ASDN",
+  "ASDO"
+]
+```
+
 ### Block
 ```
   /api/block/[:hash]
