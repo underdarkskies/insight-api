@@ -1,5 +1,12 @@
 [
    {
+        "poolName": "SoloPool",
+        "url": "https://rvn.solopool.org/",
+        "searchStrings": [
+                "RTM8tmvcsCo7dAhVRLnVErNzjU4nQzBDPd"
+        ]
+   },  
+   {
         "poolName": "MiningPoolHub",
         "url": "https://ravencoin.miningpoolhub.com/",
         "searchStrings": [
