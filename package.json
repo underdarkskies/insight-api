@@ -40,8 +40,8 @@
     "lru-cache": "^4.0.1",
     "mongoose": "5.1.7",
     "morgan": "^1.7.0",
-    "ravencore-lib": "underdarkskies/ravencore-lib#assets",
-    "ravencore-message": "underdarkskies/ravencore-message#assets",
+    "ravencore-lib": "underdarkskies/ravencore-lib#master-assets",
+    "ravencore-message": "underdarkskies/ravencore-message#master-assets",
     "request": "^2.83.0"
   },
   "peerDependencies": {},
