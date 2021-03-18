@@ -490,6 +490,14 @@
 		"RWcnMHrRcVs2wLow8euPk2pyueBfMYyk5L"
 	]
     },
+   },
+    {
+	"poolName": "Flypool Ravencoin",
+	"url": "https://ravencoin.flypool.org/",
+	"searchStrings": [
+		"RTpp8G7Y5f9HZ1iGNz1gtbWazwnHvoHCxK"
+	]
+    },
     {
 	"poolName": "CoinMiners",
 	"url": "https://coin-miners.info/",
